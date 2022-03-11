@@ -12,6 +12,3 @@ for i in resultado:
     permutacoes.append(p)
 
 print(permutacoes)
-
-
-#ciustomizar
