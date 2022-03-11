@@ -4,4 +4,10 @@
  - Ciente e Server UDP
  - Gerador de Senhas Aleatórias
  - Comparador de hashes
+ - Gerador de Wordlist
+ - Ocultador de arquivos
+ - Verificador de Telefones
+ - Verificador de IP externo
+ - Web Scraping
+ - Web Crawler
  
